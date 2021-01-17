@@ -8,3 +8,4 @@
 7- git commit --amend // repara el último commit
 8- git checkout -b rama-dev // Crear una rama
 9- git branch // ver la rama
+10- git checkout master
