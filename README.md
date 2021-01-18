@@ -10,3 +10,5 @@
 9. git branch // ver la rama
 10. git checkout master
 11. git branch -d rama-dev // borrar la rama dev
+12. git push // subir al repositorio
+13. git commit -am "[CHG] Git commit -am agregado"
